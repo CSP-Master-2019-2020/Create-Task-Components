@@ -4,12 +4,10 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
-1. Start by making an editable copy of the [submission template][template] for this assignment. 
-If you need tips on how to do this, expand the instructions below. Then…
-1. Make sure that you have completed the [template][] completely.
-1. Submit as usual.
-
-{% include submission-boilerplate.html %}
+After you have added your Create Task info to the [Create Task Components][template] document:
+1. Click on the Submit Assignment button.
+1. Add a short note describing your status in the text box.
+1. Click the Submit Assignment button.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
