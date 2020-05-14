@@ -13,5 +13,6 @@ To submit the assignment, click on the **Submit Assignment** button and add a br
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
+[lesson]: <{{site.data.assignment.lesson}}>
 [slides]: <{{site.data.assignment.slides}}>
 [template]: <{{site.data.assignment.template}}>
