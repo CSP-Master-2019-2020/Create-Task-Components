@@ -9,6 +9,8 @@ layout: tabbed-assignment
 1. Go to [Create Task in App Lab][lesson]. Notice the Share button in the upper left hand corner of the App Lab window. Click on that button and copy the link. Paste that link into the **Link** column next to your name.
 1. Then, as you make progress on your Create Task add information in the other columns: Description, Abstraction, Algorithms.
 
+## Abstraction
+
 Understanding abstraction is one of the more challenging concepts as you start your study of computer science (and since it can be a life long pursuit you are probably just starting). But the concept is actually one that you are very familiar with, we encounter it every day. One of the most common meanings of abstraction in computer science is ***hiding unnecessary detail*** – letting the user of the abstraction (you) get a job done without having to worry about the details that don't matter to the user of the abstraction. Some examples from everyday life:
 
 * **Light switches** – a light switch hides the details of how you control power to a light and lets you focus on the task you actually care about: turning on or off a light.
@@ -26,6 +28,8 @@ If you'd like another take on abstraction, the College Board has produced two vi
 
 * [AP Computer Science Principles: Data Abstraction](https://www.youtube.com/watch?v=VbYB_3uSXIc)
 * [AP Computer Science Principles: Procedural Abstraction](https://www.youtube.com/watch?v=zAu6xe8Ttn4)
+
+## Submitting
 
 To submit the assignment, click on the **Submit Assignment** button and add a brief description of your status in the text box. Please submit the assignment this week, even if you are not able to fill in all of the columns yet. As you have more to add or if you improve your work you can resubmit the assignment.
 
