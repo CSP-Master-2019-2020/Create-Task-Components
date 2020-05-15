@@ -29,6 +29,19 @@ If you'd like another take on abstraction, the College Board has produced two vi
 * [AP Computer Science Principles: Data Abstraction](https://www.youtube.com/watch?v=VbYB_3uSXIc)
 * [AP Computer Science Principles: Procedural Abstraction](https://www.youtube.com/watch?v=zAu6xe8Ttn4)
 
+## Algorithms
+
+The term _algorithm_ is "computerese" for "how you do something." For the purposes of the Create Task your algorithm needs to include either a mathematical or a logical component (and be more than a single step). Don't let that be intimidating. All it means is that you need to either:
+
+* Calculate a value, say a player's remaining lives. Or,
+* Make a decision, for example did the player loose a life?
+
+Of course you could always do both…
+
+You'll need two "basic" algorithms **plus** a third algorithm that combines the two basic algorithms. For example you could deterimine if the player still has lives and if not, end the game.
+
+Overall your app will have *at least* three algorithms – the two "basic" ones plus a third that combines them. Having more than three is not a problem.
+
 ## Submitting
 
 To submit the assignment, click on the **Submit Assignment** button and add a brief description of your status in the text box. Please submit the assignment this week, even if you are not able to fill in all of the columns yet. As you have more to add or if you improve your work you can resubmit the assignment.
